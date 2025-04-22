@@ -16,14 +16,14 @@
 
    `https://github.com/amrutak1611/SwagLabs.git`
 
+* Change directory to SwagLabs1:
+
+   `cd SwagLabs1`
+
 * Run following command:
 
    `npm i -D @playwright/test`
   
-* Change directory to SwagLabs:
-
-   `cd SwagLabs`
-
 * Install the dependencies:
 
    `npm install`
