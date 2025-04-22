@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2499","Verify problem user","chromium","Fri Apr 18 18:50:21 IST 2025","passed","Fri Apr 18 18:50:23 IST 2025","","WebCartApp.spec.js","",""
+"","4464","Verify standard user","chromium","Fri Apr 18 18:50:15 IST 2025","passed","Fri Apr 18 18:50:19 IST 2025","","WebCartApp.spec.js","",""
+"","2567","Verify visual user","chromium","Fri Apr 18 18:50:25 IST 2025","passed","Fri Apr 18 18:50:28 IST 2025","","WebCartApp.spec.js","",""
+"","1596","Verify error user","chromium","Fri Apr 18 18:50:23 IST 2025","passed","Fri Apr 18 18:50:25 IST 2025","","WebCartApp.spec.js","",""
+"","1432","Verify locked out user","chromium","Fri Apr 18 18:50:20 IST 2025","passed","Fri Apr 18 18:50:21 IST 2025","","WebCartApp.spec.js","",""

@@ -1,0 +1,14 @@
+{
+    "user" : "standard_user",
+    "pass" : "secret_sauce",
+    "selectByName" : "za",
+    "selectByPrice" : "hilo",
+    "itemNames" : ["Sauce Labs Backpack", "Sauce Labs Bolt T-Shirt"],
+
+    "lockeduser" : "locked_out_user",
+    "lockedErrMsg" : "Sorry, this user has been locked out.",
+
+    "problemuser" : "problem_user",
+    "erroruser" : "error_user",
+    "visualuser" : "visual_user"
+}
