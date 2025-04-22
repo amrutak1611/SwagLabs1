@@ -53,7 +53,7 @@ SWAGLABS
 
 ## Video-Report
 
-[![Sauce-Demo](https://github.com/amrutak1611/SwagLabs/blob/main/visual/WebCartApp.spec.js-snapshots/LockedUser-chromium-win32.png)](https://github.com/amrutak1611/SwagLabs/blob/main/video/StandardUser/Standard_User.mp4)
+[![Sauce-Demo](https://github.com/amrutak1611/SwagLabs/blob/main/visual/WebCartApp.spec.js-snapshots/LockedUser-chromium-win32.png)](https://github.com/amrutak1611/SwagLabs1/blob/main/videos/Standard_User.mp4)
 
 ## Contribution
 
