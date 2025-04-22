@@ -16,7 +16,10 @@
 
    `https://github.com/amrutak1611/SwagLabs.git`
 
+* Run following command:
 
+   `npm i -D @playwright/test`
+  
 * Change directory to SwagLabs:
 
    `cd SwagLabs`
